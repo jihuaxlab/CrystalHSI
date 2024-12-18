@@ -23,8 +23,9 @@ python main.py
 
 ## Dataset
 
-- `d.txt` is the spectra of samples, acquired by hyperspectral imaging.
-- `r.txt` is the red peak's area of the each spectrum.
-- `g.txt` is the green peak's area of the each spectrum.
-- `b.txt` is the red peak's area of the each spectrum.
-- `l.txt` is the label of the each spectrum, defined by area computation.
+- `d1.txt`-`d5.txt` are the spectra of samples on 180, 195, 210, 225 and 240 Celsius degree, respectively, acquired by hyperspectral imaging.
+- `r.txt` is the red peak's area of each spectrum.
+- `g.txt` is the green peak's area of each spectrum.
+- `b.txt` is the red peak's area of each spectrum.
+- `l.txt` is the label of each spectrum, defined by area computation.
+- `wl.txt` is the wavelength of each spectrum.
