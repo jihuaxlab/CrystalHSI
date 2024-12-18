@@ -10,7 +10,6 @@ numpy==1.16.5
 matplotlib==3.1.0
 sklearn==0.21.3
 seaborn==0.11.2
-pytorch==1.7.1
 xgboost==1.5.0
 lightgbm==3.2.1
 ```
